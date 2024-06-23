@@ -28,7 +28,7 @@
 }
 
 .marketplace__link-wb {
-    background-image: url("/images/icon_wb.png");
+    background-image: url("/images/icon-wb.png");
     background-size: 150px 150px;
     background-position: center 5px;
     background-repeat: no-repeat;
@@ -37,7 +37,7 @@
 
 .marketplace__link-ozon {
     margin-left: 40px;
-    background-image: url("/images/icon_ozon.png");
+    background-image: url("/images/icon-ozon.png");
     background-size: 142px 142px;
     background-position: center 10px;
     background-repeat: no-repeat;
