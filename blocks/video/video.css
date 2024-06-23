@@ -59,9 +59,13 @@
     color: inherit;
 }
 
+.videos__yt-item a:hover {
+    opacity: 0.7;
+}
+
 .videos__yt-item img {
-    width: 99%;
-    height: 99%;
+    width: 101%;
+    height: 101%;
     object-fit: cover;
     object-position: center;
 }

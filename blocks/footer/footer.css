@@ -1,0 +1,33 @@
+.footer {
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+    margin-top: 40px;
+    min-height: 150px;
+    width: 100%;
+    background-color: #e9b60d;
+}
+
+.footer__description {
+
+}
+
+.footer__paragraph {
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.footer__social {
+}
+
+.footer__social-link {
+    text-decoration: none;
+}
+
+.footer__social-link:hover {
+    opacity: 0.7;
+}
