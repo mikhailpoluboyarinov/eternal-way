@@ -1,7 +1,7 @@
 .carousel {
     position: relative;
-    margin: 40px auto 0;
-    max-width: 1200px;
+    margin: 20px auto 0;
+    max-width: 100%;
     overflow: hidden;
 }
 
@@ -30,8 +30,8 @@
 }
 
 .carousel__image {
-    width: 400px;
-    height: 600px;
+    max-width: 400px;
+    max-height: 600px;
 }
 
 .carousel__link {
@@ -45,6 +45,8 @@
 .carousel__description {
     text-align: center;
     color: white;
+    font-size: 1rem; /* Добавил размер шрифта для мобильных устройств */
+    padding: 10px; /* Добавил отступы для текста */
 }
 
 .carousel__button {
@@ -54,15 +56,48 @@
     transform: translateY(-50%);
     background: none;
     border: none;
-    font-size: 6rem;
+    font-size: 3rem; /* Уменьшил размер кнопок для мобильных устройств */
     cursor: pointer;
     z-index: 2;
 }
 
 .carousel__button--prev {
-    left: 10%;
+    left: 24%;
 }
 
 .carousel__button--next {
-    right: 10%;
+    right: 24%;
+}
+
+/* Медиа-запросы для мобильных устройств */
+@media (max-width: 600px) {
+
+    .carousel {
+        padding-top: 30px;
+    }
+
+    .carousel__image {
+        max-width: 300px;
+        max-height: 400px;
+    }
+
+    .carousel {
+        margin: 10px auto 0;
+    }
+
+    .carousel__button--prev {
+        left: 14px;
+    }
+
+    .carousel__button--next {
+        right: 14px;
+    }
+
+    .carousel__button {
+        font-size: 2rem;
+    }
+
+    .carousel__description {
+        font-size: 0.8rem;
+    }
 }

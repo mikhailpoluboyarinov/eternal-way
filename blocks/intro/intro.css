@@ -1,3 +1,4 @@
+/* Общие стили */
 .intro {
     background-color: #e9b60d;
     margin: 40px 100px 0;
@@ -5,3 +6,272 @@
     min-height: 600px;
     border-radius: 20px;
 }
+
+.intro__wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.intro-photo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.intro-photo__wrapper {
+    position: relative;
+    display: inline-block;
+}
+
+.intro-photo__wrapper::after {
+    content: '';
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 50px;
+    height: 50px;
+    background-image: url('/images/ew-logo-mini.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.intro-photo__image {
+    display: block;
+    max-width: 294px;
+    max-height: 383px;
+}
+
+.intro-photo__name {
+    margin: 0;
+    padding-top: 20px;
+    color: black;
+    font-size: 36px;
+    text-align: center;
+}
+
+.intro-photo__role {
+    margin: 0;
+    color: black;
+    font-size: 29px;
+    text-align: center;
+}
+
+.intro-photo__brand {
+    margin: 0;
+    color: black;
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.intro-photo__conjunction {
+    margin: 0;
+    color: black;
+    font-size: 29px;
+    text-align: center;
+}
+
+.intro-photo__store {
+    margin: 0;
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.intro-description {
+    padding-left: 40px;
+    padding-top: 20px;
+    max-width: 650px;
+}
+
+.intro-description__title {
+    margin: 0;
+    font-size: 94px;
+    font-weight: bold;
+}
+
+.intro-description__subtitle {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: black;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.intro-description__paragraph {
+    margin: 0;
+    color: black;
+    font-weight: 500;
+    font-size: 23px;
+}
+
+.intro-description__wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.intro-description__accent {
+    margin: 20px 10px 0 20px;
+    font-size: 27px;
+    font-weight: 900;
+}
+
+.intro-description__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.intro-description__paragraph-bordered {
+    margin: 10px 0 0 0;
+    padding: 10px;
+    max-width: 263px;
+    color: black;
+    font-weight: 500;
+    font-size: 24px;
+    border: 4px white dashed;
+    border-radius: 10px;
+}
+
+.intro-description__link-yt:hover {
+    opacity: 0.5;
+}
+
+.intro__paragraph {
+    margin: 0;
+    font-size: 36px;
+    padding: 33px;
+    color: black;
+    text-align: center;
+}
+
+
+/* Медиазапрос для мобильных устройств */
+@media (max-width: 768px) {
+    .intro {
+        margin: 20px 10px 0;
+        max-width: 100%;
+        min-height: auto;
+    }
+
+    .intro__wrapper {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .intro-description__subtitle {
+        order: -1;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: center;
+        font-size: 24px;
+    }
+
+    .intro-photo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0;
+        padding-top: 20px;
+        width: 100%;
+    }
+
+    .intro-photo__wrapper {
+        margin-right: 10px;
+    }
+
+    .intro-photo__image {
+        max-width: 269px;
+        max-height: 345px;
+    }
+
+    .intro-photo__name,
+    .intro-photo__role,
+    .intro-photo__brand,
+    .intro-photo__conjunction,
+    .intro-photo__store {
+        font-size: 26px;
+        margin: 0;
+        text-align: left;
+    }
+
+    .intro-photo__store {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .intro-description {
+        padding: 20px;
+        text-align: center;
+        max-width: 100%;
+        order: 1;
+    }
+
+    .intro-description__title {
+        display: none;
+    }
+
+    .intro-description__paragraph {
+        font-size: 16px;
+    }
+
+    .intro-description__accent {
+        font-size: 18px;
+    }
+
+    .intro-description__container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .intro-description__paragraph-bordered {
+        font-size: 16px;
+        margin-top: 10px;
+        text-align: center;
+    }
+
+    .intro-description__link-yt {
+        margin-top: 10px;
+    }
+
+    .intro-description__link-yt img {
+        width: 80px;
+        height: auto;
+    }
+
+    .intro__paragraph {
+        font-size: 16px;
+        padding: 10px;
+    }
+
+    .intro-telegram {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 20px;
+        padding: 20px;
+        border: 2px dashed white;
+        border-radius: 10px;
+    }
+
+    .intro-telegram__text {
+        font-size: 18px;
+        margin: 10px 0;
+    }
+
+    .intro-telegram__link {
+        margin-top: 10px;
+        padding: 10px 20px;
+        background-color: black;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+    }
+}
+

@@ -6,3 +6,14 @@
     align-items: center;
     justify-content: space-between;
 }
+
+@media (max-width: 768px) {
+    .header__container {
+        min-height: 400px;
+        margin: 0;
+        padding: 0;
+        flex-direction: column;
+    }
+}
+
+
