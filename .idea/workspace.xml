@@ -5,36 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53d8a82b-b916-4c31-b2e9-cc4b230b2518" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/header-logo-left-new.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/carousel/carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/carousel/carousel.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__container/header__container.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__container/header__container.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__image/header__image-left.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__image/header__image-left.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__image/header__image-right.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__image/header__image-right.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/-description/__accent/intro-description__accent.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/-description/__container/intro-description__container.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/-description/__link/intro-description__link-yt.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/-description/__paragraph/__paragraph-bordered/intro-description__paragraph-bordered.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/-description/__paragraph/intro-description__paragraph.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/-description/__subtitle/intro-description__subtitle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/-description/__title/intro-description__title.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/-description/__wrapper/intro-description__wrapper.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/-description/intro-description.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/-photo/__brand/intro-photo__brand.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/-photo/__conjunction/intro-photo__conjunction.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/-photo/__image/intro-photo__image.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/-photo/__name/intro-photo__name.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/-photo/__role/intro-photo__role.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/-photo/__store/intro-photo__store.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/-photo/__wrapper/intro-photo__wrapper.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/-photo/intro-photo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/__paragraph/intro__paragraph.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/__wrapper/intro__wrapper.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/intro.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/intro.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/offerse/offerse.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/offerse/offerse.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/video/video.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/video.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +68,7 @@
       <workItem from="1719328502902" duration="806000" />
       <workItem from="1719437146437" duration="21000" />
       <workItem from="1720436965125" duration="9135000" />
-      <workItem from="1720560169924" duration="5101000" />
+      <workItem from="1720560169924" duration="5857000" />
     </task>
     <servers />
   </component>
