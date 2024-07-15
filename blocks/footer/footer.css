@@ -31,3 +31,10 @@
 .footer__social-link:hover {
     opacity: 0.7;
 }
+
+@media (max-width: 768px) {
+
+    .footer__social {
+        min-height: 206px;
+    }
+}

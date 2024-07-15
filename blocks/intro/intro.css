@@ -182,10 +182,6 @@
         width: 100%;
     }
 
-    .intro-photo__wrapper {
-        margin-right: 10px;
-    }
-
     .intro-photo__image {
         max-width: 269px;
         max-height: 345px;
@@ -211,6 +207,7 @@
         text-align: center;
         max-width: 100%;
         order: 1;
+        padding-bottom: 0;
     }
 
     .intro-description__title {
@@ -241,13 +238,16 @@
     }
 
     .intro-description__link-yt img {
-        width: 80px;
+        width: 200px;
         height: auto;
     }
 
     .intro__paragraph {
-        font-size: 16px;
+        color: white;
+        font-weight: 500;
+        font-size: 18px;
         padding: 10px;
+        padding-top: 0;
     }
 
     .intro-telegram {
