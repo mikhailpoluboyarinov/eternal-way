@@ -150,6 +150,14 @@
     text-align: center;
 }
 
+.intro-description__paragraph-bottom {
+    display: none;
+}
+
+.intro-description__arrow {
+    display: none;
+}
+
 
 /* Медиазапрос для мобильных устройств */
 @media (max-width: 768px) {
@@ -272,6 +280,22 @@
         color: white;
         text-decoration: none;
         border-radius: 5px;
+    }
+
+    .intro-description__paragraph-bottom {
+        display: inherit;
+        margin-top: 30px;
+        margin-bottom: -22px;
+        font-size: 19px;
+        color: white;
+        font-weight: 500;
+    }
+
+    .intro-description__arrow {
+        display: inherit;
+        padding-top: 5px;
+        font-size: 30px;
+        margin-bottom: -32px;
     }
 }
 

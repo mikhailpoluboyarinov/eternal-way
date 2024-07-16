@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53d8a82b-b916-4c31-b2e9-cc4b230b2518" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images/icon-yt-based.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/intro/intro.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/intro.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/offerse/offerse.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/offerse/offerse.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/video/video.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/video.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,23 +36,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/HTML-JS/Projects/eternal-way/images&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/misha/WebstormProjects/eternal-way/images",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="D:\HTML-JS\Projects\eternal-way\images" />
     </key>
   </component>
@@ -69,14 +68,6 @@
       <workItem from="1718986571509" duration="4693000" />
       <workItem from="1719049627720" duration="10008000" />
       <workItem from="1719066231840" duration="5497000" />
-      <workItem from="1719144808040" duration="5983000" />
-      <workItem from="1719328502902" duration="806000" />
-      <workItem from="1719437146437" duration="21000" />
-      <workItem from="1720436965125" duration="9135000" />
-      <workItem from="1720560169924" duration="5857000" />
-      <workItem from="1720830416895" duration="327000" />
-      <workItem from="1720869448835" duration="5000" />
-      <workItem from="1721076913197" duration="3657000" />
     </task>
     <servers />
   </component>
