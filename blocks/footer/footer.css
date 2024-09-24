@@ -9,7 +9,7 @@
     margin-top: 40px;
     min-height: 150px;
     width: 100%;
-    background-color: #e9b60d;
+    background: linear-gradient(#019fc3, #009859);
 }
 
 .footer__description {

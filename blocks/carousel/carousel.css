@@ -44,9 +44,10 @@
 
 .carousel__description {
     text-align: center;
-    color: white;
-    font-size: 1rem; /* Добавил размер шрифта для мобильных устройств */
-    padding: 10px; /* Добавил отступы для текста */
+    color: #009859;
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 10px;
 }
 
 .carousel__button {
@@ -63,10 +64,20 @@
 
 .carousel__button--prev {
     left: 24%;
+    color: #019fc3;
+}
+
+.carousel__button--prev:hover {
+    opacity: 0.5;
 }
 
 .carousel__button--next {
     right: 24%;
+    color: #009859;
+}
+
+.carousel__button--next:hover {
+    opacity: 0.5;
 }
 
 /* Медиа-запросы для мобильных устройств */

@@ -3,8 +3,8 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__container/page__container.css);
 @import url(../blocks/header/__container/header__container.css);
-@import url(../blocks/header/__image/header__image-left.css);
-@import url(../blocks/header/__image/header__image-right.css);
+@import url(../blocks/header/__image/header__paragraph-left.css);
+@import url(../blocks/header/__image/header__paragraph-right.css);
 @import url(../blocks/header/__image/header__image-middle.css);
 
 @import url(../blocks/intro/intro.css);
