@@ -5,22 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53d8a82b-b916-4c31-b2e9-cc4b230b2518" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/header/__image/header__paragraph-left.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/carousel/carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/carousel/carousel.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__image/header__image-left.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/header/__image/header__image-right.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__image/header__paragraph-right.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/intro/intro.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/intro.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/offerse/offerse.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/offerse/offerse.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/page/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cover-900-1200.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/cover-900-1200.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/delivery-pc.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/delivery-pc.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/founder-of-the-company.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/founder-of-the-company.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/header-logo-mid.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/header-logo-mid.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/our-yt.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/images/our-yt.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/video/video.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/video/video.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +43,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/HTML-JS/Projects/eternal-way&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/HTML-JS/Projects/eternal-way/images&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -86,18 +76,7 @@
       <workItem from="1720560169924" duration="5857000" />
       <workItem from="1720830416895" duration="327000" />
       <workItem from="1720869448835" duration="5000" />
-      <workItem from="1721076913197" duration="4365000" />
-      <workItem from="1721086024786" duration="33000" />
-      <workItem from="1721087005862" duration="612000" />
-      <workItem from="1722185254053" duration="29000" />
-      <workItem from="1722696399163" duration="9000" />
-      <workItem from="1724003386523" duration="18000" />
-      <workItem from="1725201794448" duration="6000" />
-      <workItem from="1725203846732" duration="10000" />
-      <workItem from="1726931936207" duration="652000" />
-      <workItem from="1727097498187" duration="252000" />
-      <workItem from="1727097763764" duration="2081000" />
-      <workItem from="1727181442060" duration="3431000" />
+      <workItem from="1721076913197" duration="3657000" />
     </task>
     <servers />
   </component>
