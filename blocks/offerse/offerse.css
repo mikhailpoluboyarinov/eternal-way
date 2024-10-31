@@ -118,6 +118,14 @@
     opacity: 0.5;
 }
 
+.checklist__button:hover {
+    background-color: #009859;
+}
+
+.subscribe__button:hover {
+    background-color: #009859;
+}
+
 .checklist__paragraph-bottom {
     margin: 0;
     margin-left: 40px;
