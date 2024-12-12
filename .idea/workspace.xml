@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53d8a82b-b916-4c31-b2e9-cc4b230b2518" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/images/covers/video-222213366_456239308_cover.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/images/covers/video-222213366_456239312_cover.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/images/pzu_6v1_wb.png" afterDir="false" />
@@ -13,6 +14,11 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/images/moika-90-1200.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/moika-900-1200.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_07_2024,_4_28 PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_07_2024__4_28PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 605b135 (idk)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +46,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -53,8 +60,23 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/misha/WebstormProjects/eternal-way/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+>>>>>>> 605b135 (idk)
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\HTML-JS\Projects\eternal-way\images\covers" />
@@ -75,6 +97,7 @@
       <workItem from="1718986571509" duration="4693000" />
       <workItem from="1719049627720" duration="10008000" />
       <workItem from="1719066231840" duration="5497000" />
+<<<<<<< HEAD
       <workItem from="1719144808040" duration="5983000" />
       <workItem from="1719328502902" duration="806000" />
       <workItem from="1719437146437" duration="21000" />
@@ -86,6 +109,11 @@
       <workItem from="1730376345941" duration="2583000" />
       <workItem from="1730985069232" duration="492000" />
       <workItem from="1733568787813" duration="6073000" />
+=======
+      <workItem from="1726054864577" duration="441000" />
+      <workItem from="1726580582051" duration="951000" />
+      <workItem from="1734001293840" duration="6000" />
+>>>>>>> 605b135 (idk)
     </task>
     <servers />
   </component>
