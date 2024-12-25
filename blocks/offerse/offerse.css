@@ -474,7 +474,7 @@
 
 
 .gift__description {
-    text-shadow: #ffffff 1px 0 30px;
+    text-shadow: #f82f2f 5px 0 30px;
     font-size: 40px;
     font-weight: bold;
     margin-bottom: 20px;
@@ -517,6 +517,10 @@
 
 .subscribe__button-bot {
     display: inline-block;
+}
+
+.gifts__button-bottom {
+    border-color: #ffa4a4;
 }
 
 @media (max-width: 768px) {
