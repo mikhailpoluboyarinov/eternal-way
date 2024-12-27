@@ -7,11 +7,11 @@
 
 .marketplaces {
     display: flex;
+    justify-content: space-around;
     position: relative;
 }
 
 .marketplace__link {
-    margin-left: 60px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -43,6 +43,14 @@
     background-repeat: no-repeat;
 }
 
+.marketplace__link-yam {
+    margin-left: 40px;
+    background-image: url("/images/icon-yam.png");
+    background-size: 142px 142px;
+    background-position: center 10px;
+    background-repeat: no-repeat;
+}
+
 .marketplace__description {
     position: absolute;
     font-size: 24px;
@@ -50,6 +58,11 @@
     width: 100%;
     text-align: center;
     color: black;
+}
+
+.presents {
+    display: flex;
+    margin-top: 40px;
 }
 
 .gifts {
@@ -141,11 +154,8 @@
 }
 
 .offers__img {
-    top: 240px;
-    left: 60px;
     width: 470px;
     height: 420px;
-    position: absolute;
 }
 
 .gift {
@@ -489,7 +499,7 @@
 .subscribe {
     display: flex;
     align-items: center;
-    margin-top: 257px;
+    margin-top: 20px;
     height: 200px;
     background: linear-gradient(#019fc3, #009859, #019fc3);
     border-radius: 20px;
@@ -599,7 +609,6 @@
     }
 
     .offers__img {
-        position: static;
         width: 80%;
         height: auto;
         margin-top: 20px;
@@ -642,5 +651,10 @@
 
     .subscribe__img {
         margin-left: 0;
+    }
+
+    .presents {
+        flex-direction: column;
+        align-items: center;
     }
 }
