@@ -1,0 +1,33 @@
+.buttons-mobile {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .buttons-mobile {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .button-mobile {
+        flex: 1;
+        max-width: 150px;
+    }
+
+    .button-mobile__link {
+        display: block;
+        text-align: center;
+        padding: 10px 15px;
+        background: linear-gradient(#019fc3, #009859);
+        color: white;
+        text-decoration: none;
+        border-radius: 10px;
+        box-shadow: 0px 3px 4px #282828;
+        font-size: 16px;
+        font-weight: bold;
+    }
+
+    .button-mobile__link:hover {
+        opacity: 0.5;
+    }
+}

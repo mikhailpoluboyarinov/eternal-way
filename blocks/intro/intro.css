@@ -147,9 +147,17 @@
     display: none;
 }
 
+.intro-mobile {
+    display: none;
+}
+
 
 /* Медиазапрос для мобильных устройств */
 @media (max-width: 768px) {
+    .intro {
+        display: none;
+    }
+
     .intro {
         margin: 20px 10px 0;
         max-width: 100%;
@@ -285,6 +293,30 @@
         padding-top: 5px;
         font-size: 30px;
         margin-bottom: -32px;
+    }
+
+    .intro-mobile {
+        display: block;
+    }
+
+    .intro-mobile__description {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .intro-mobile__title {
+        color: black;
+        font-weight: 500;
+        max-width: 300px;
+        text-align: center;
+    }
+
+    .intro-mobile__subtitle {
+        color: black;
+        font-weight: 700;
+        text-align: center;
+        max-width: 300px;
     }
 }
 

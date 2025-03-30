@@ -4,10 +4,20 @@
     font-size: 40px;
     letter-spacing: 6px;
     padding-left: 10px;
+    white-space: pre-wrap;
 }
 
 @media (max-width: 768px) {
     .header__paragraph-right {
+        font-size: 22px;
+        padding: 0;
+        text-align: center;
+    }
+}
+
+@media (min-width: 768px) {
+    .header__paragraph-right br {
+        display: none;
     }
 }
 

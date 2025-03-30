@@ -9,10 +9,9 @@
 
 @media (max-width: 768px) {
     .header__container {
-        min-height: 400px;
+        justify-content: space-around;
+        padding: 16px;
         margin: 0;
-        padding: 0;
-        flex-direction: column;
     }
 }
 
