@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53d8a82b-b916-4c31-b2e9-cc4b230b2518" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/offerse/offerse.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/offerse/offerse.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/HTML-JS/Projects/eternal-way&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/HTML-JS/Projects/eternal-way/images/covers&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -84,10 +83,7 @@
       <workItem from="1733568787813" duration="6649000" />
       <workItem from="1733577340365" duration="617000" />
       <workItem from="1734623831708" duration="595000" />
-      <workItem from="1735126437303" duration="670000" />
-      <workItem from="1735129791909" duration="671000" />
-      <workItem from="1738162260109" duration="3000" />
-      <workItem from="1743358642178" duration="4468000" />
+      <workItem from="1735126437303" duration="318000" />
     </task>
     <servers />
   </component>
