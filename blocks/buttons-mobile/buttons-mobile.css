@@ -5,6 +5,7 @@
 @media (max-width: 768px) {
     .buttons-mobile {
         display: flex;
+        padding-top: 20px;
         justify-content: center;
         gap: 10px;
     }
@@ -15,16 +16,26 @@
     }
 
     .button-mobile__link {
-        display: block;
-        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         padding: 10px 15px;
-        background: linear-gradient(#019fc3, #009859);
+        margin: auto;
         color: white;
         text-decoration: none;
         border-radius: 10px;
         box-shadow: 0px 3px 4px #282828;
         font-size: 16px;
         font-weight: bold;
+        min-height: 40px;
+    }
+
+    .button-mobile__link-whatsapp {
+        background: #2cb742;
+    }
+
+    .button-mobile__link-telegram {
+        background: #0088cc;
     }
 
     .button-mobile__link:hover {

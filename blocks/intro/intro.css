@@ -306,7 +306,9 @@
     }
 
     .intro-mobile__title {
+        padding-top: 20px;
         color: black;
+        font-size: 24px;
         font-weight: 500;
         max-width: 300px;
         text-align: center;
@@ -315,6 +317,7 @@
     .intro-mobile__subtitle {
         color: black;
         font-weight: 700;
+        font-size: 24px;
         text-align: center;
         max-width: 300px;
     }
